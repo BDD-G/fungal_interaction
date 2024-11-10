@@ -12,4 +12,11 @@ Fungi offer valuable solutions for various biotechnological applications, includ
 ## Boxplot
 ![boxplot](https://github.com/user-attachments/assets/ec9a4e21-1cff-485f-ad7f-191a257e570a)
 
+## Training Process of all models
+![training_process1](https://github.com/user-attachments/assets/3c3d4784-ca75-4b0c-93cb-3ce89b3ccbe4)
+
+
+## Software and Hardware
+The code utilized in this study was implemented in Python and TensorFlow library version 2.15. The process of training the deep learning models was performed on Google Colab pro plus, using NVIDIA GPU A100-40G
+
 
