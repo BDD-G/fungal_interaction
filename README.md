@@ -9,3 +9,7 @@ Fungi offer valuable solutions for various biotechnological applications, includ
 ## Table
 <img width="809" alt="table " src="https://github.com/user-attachments/assets/4ca6da72-e8cc-40a1-a9fd-bf24f40f7a87"> 
 
+## Boxplot
+![boxplot](https://github.com/user-attachments/assets/ec9a4e21-1cff-485f-ad7f-191a257e570a)
+
+
